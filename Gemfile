@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'discordrb', '~> 3.5'
+gem 'sequel', '~> 5.0'
+gem 'sqlite3', '~> 1.6'
+gem 'dotenv', '~> 3.0'
+gem 'net-http', '~> 0.4'
